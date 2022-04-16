@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/https//jitendra-1707.github.io/NewsRoute/static/css/main.42d26e42.css",
+    "main.js": "/https//jitendra-1707.github.io/NewsRoute/static/js/main.2b590946.js",
+    "static/js/787.1ce2c705.chunk.js": "/https//jitendra-1707.github.io/NewsRoute/static/js/787.1ce2c705.chunk.js",
+    "static/media/Null.jpg": "/https//jitendra-1707.github.io/NewsRoute/static/media/Null.34a879758550a3554189.jpg",
+    "index.html": "/https//jitendra-1707.github.io/NewsRoute/index.html",
+    "main.42d26e42.css.map": "/https//jitendra-1707.github.io/NewsRoute/static/css/main.42d26e42.css.map",
+    "main.2b590946.js.map": "/https//jitendra-1707.github.io/NewsRoute/static/js/main.2b590946.js.map",
+    "787.1ce2c705.chunk.js.map": "/https//jitendra-1707.github.io/NewsRoute/static/js/787.1ce2c705.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d26e42.css",
+    "static/js/main.2b590946.js"
+  ]
+}
